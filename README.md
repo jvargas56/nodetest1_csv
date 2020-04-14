@@ -2,8 +2,10 @@
 
 Technologies applied: 
 
+Node JS as backend.
+ExpressJs as Middleware.
 Mongo db in memory server.
-Moonse as ORM.
+Moongose as ORM.
 Ejs as view Engine, for SSR.
 Routes (MVC pattern)
 Controllers (MVC pattern)
