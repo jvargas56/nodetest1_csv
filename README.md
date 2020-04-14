@@ -13,7 +13,7 @@ Model (MVC pattern)
 For testing: JEST (validate we can insert a vehicle data correctly into mongo db).
 Style: Custom css, no css framework like boostrsap is must.
 
-The applications has 2 views, firt one to upload data and secondly to view which data was uploaded from csv file, to make good front end presentacion, I used cards presentation with own css.
+The applications has 2 views, first one to upload data and secondly to view which data was uploaded from csv file, to make good front end presentacion, I used cards presentation with own css.
 
 Assumptions:
 - According  test requirment app should store all the time 10 columns, then application will only maping those columns, 
